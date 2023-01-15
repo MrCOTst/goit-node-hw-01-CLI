@@ -40,7 +40,6 @@ const addContact = async (data) => {
 };
 
 module.exports = {
-  contactsPath,
   listContacts,
   getContactById,
   removeContact,
